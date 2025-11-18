@@ -1,6 +1,5 @@
 <img src="https://static.vecteezy.com/system/resources/previews/030/933/668/non_2x/doodle-freehand-drawing-of-corfu-island-map-free-png.png" alt="Περίγραμμα Νησιού Κέρκυρας" width="40px" style="float: right;">
 
-## 🇬🇷 Ελληνικά
 
 # Αποθετήριο Γεωχωρικών Δεδομένων Κέρκυρας
 
@@ -17,8 +16,6 @@
 Εάν εντοπίσετε ανακρίβειες, έχετε ενημερώσεις ή διαθέτετε πρόσθετα ανοιχτά γεωχωρικά δεδομένα για την Κέρκυρα, παρακαλούμε να υποβάλετε ένα **Issue** ή ένα **Pull Request**.
 
 ***
-
-## 🇪🇳 English
 
 # Corfu Geospatial Data Repository 
 
