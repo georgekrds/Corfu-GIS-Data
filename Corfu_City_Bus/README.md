@@ -4,7 +4,7 @@
 
 The file **`stops.csv`** contains a list of all active stops for the Corfu City Bus (Astiko KTEL Kerkyras), including their IDs, their geographical coordinates, and the stop names in both Greek and English.
 
-### 📌 CSV File Structure
+### `stops.csv` Structure
 
 | Column | Description |
 | :--- | :--- |
@@ -25,7 +25,7 @@ The file **`stops.csv`** contains a list of all active stops for the Corfu City 
 
 Το αρχείο **`stops.csv`** περιέχει μια λίστα με όλες τις ενεργές στάσεις του Αστικού ΚΤΕΛ Κέρκυρας, συμπεριλαμβανομένων των ID τους, των γεωγραφικών συντεταγμένων και των ονομάτων των στάσεων στα Ελληνικά και τα Αγγλικά.
 
-### 📌 Δομή Αρχείου CSV
+###  Δομή `stops.csv`
 
 | Στήλη | Περιγραφή |
 | :--- | :--- |
